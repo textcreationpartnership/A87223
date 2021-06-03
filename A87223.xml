@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An item for England in some honest intimations: or, Queries in season for the generall good of all Gods people.</title>
+         </titleStmt>
+         <extent>Approx. 20KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87223</idno><idno type="EEBO-CITATION">45504480</idno>
+  <idno type="VID">171796</idno>
+  <idno type="EEBO-PROQUEST">2240908660</idno>
+  
+            <idno type="STC">Wing I1088A</idno>
+            <idno type="STC">ESTC R179152</idno>
+            <idno type="OCLC">45504480</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A87223)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 171796)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2591:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An item for England in some honest intimations: or, Queries in season for the generall good of all Gods people.</title>
+               </titleStmt>
+               <extent>7 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed; and are to be sold at Pauls Church-yard, and Westminster-hall,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1655.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in: Sutro Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:171796:1"/>
+            <head>An <hi>Item</hi> for <hi>England</hi> in some Honest Intimations: <hi>Or,</hi> Queries in Season for the generall good of all GODS PEOPLE.</head>
+            <p>VVHether it be not the <hi>present duty of this season,</hi> incumbent up<g ref="char:EOLhyphen"/>on all godly Christians, especially upon all true and faith<g ref="char:EOLhyphen"/>full Ministers of Christ in their publick addresses to God, constantly and earnestly to solicite him with more importunate prayer than ordinary, for the <hi>generall peace and concord</hi> of all the Evangelicall and Reformed Church at home and abroad? and whether we ought not now <hi>especially</hi> in this juncture of time to provoke one another, and mutually to binde each other to this particular Duty?</p>
+            <p n="2">2. Whether it be not requisite to appoint and observe extraodi<g ref="char:EOLhyphen"/>nary <hi>dayes of Fasting, Humiliation and Prayer</hi> with deep <hi>soul affliction,</hi> for a certain time, both in Cities and Countries, purposely for to seek at Gods hands the Union, Reconciliation and correspondency of all the godly departed ou<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of Babylon, withall bewailing our many late and present divisions and dissensions?</p>
+            <p n="3">3. Whether it may not be expedient to imploy <hi>Agents</hi> and <hi>trans<g ref="char:EOLhyphen"/>actors of Peace</hi> and concord throughout all the Churches of Christ, not onely in these Dominions, but in forreign parts, in <hi>Germany, France, Denmark, Scotland &amp;c.</hi> to make motions of Peace, and to prepare way for this blessed work of Christian Union and Gospel Love?</p>
+            <p n="4">4. Whether it may not be conducible to solicite the supream Ma<g ref="char:EOLhyphen"/>gistrates, to call <hi>a general Convention,</hi> not now to dispute and quarrell about the controverted Points (which hath been done enough if not too much already, &amp; w<seg rend="sup">ch</seg> would rather widen than heal the wound) but to cement and to agree upon terms and means of a Brotherly a<g ref="char:EOLhyphen"/>greement and accommodation, as God shall direct by his word and spirit?</p>
+            <p n="5">5. Whether God doth not now expect a more <hi>effectual Reformation of sinfull practises,</hi> chiefly of those notorious &amp; epidemical sins of swear<g ref="char:EOLhyphen"/>ing, Drunkenesse, and Sabbath breaking, that none of those sins may be connived at? and whether it may not be a good expedient, for to put in execution those good Laws made on that behalf, to appoint in every parish one or more godly or at lest civill persons, to be <hi>Inspecto<g ref="char:EOLhyphen"/>res morum,</hi> and to present complaints to the Justices against sinful pra<g ref="char:EOLhyphen"/>ctises of dissolute persons, that they may receive condign punishment for their offences, for their amendment, and for a warning to others?</p>
+            <pb n="2" facs="tcp:171796:2"/>
+            <p n="6">6. Whether it may not be thought expedient for the suppressing of <hi>errour, heresies and blasphemies,</hi> that all Ministers be appointed in their severall places, to set up <hi>Catechising and publick Conferences;</hi> there<g ref="char:EOLhyphen"/>by to establish the people of God in the sound doctrine, and saving Truth of Jesus Christ, and by the sword of the spirit, which is the Word of God, to beat down the strong holds of all sinfull and erro<g ref="char:EOLhyphen"/>nious principles?</p>
+            <p n="7">7. Whether it be not necessary for the preservation and safety of Gods people, that all Reformed Magistrates and Protestant States in all parts, joyn into <hi>a Generall League and perpetuall Covenant,</hi> Offensive and Defensive, to strengthen one anothers hands against the com<g ref="char:EOLhyphen"/>mon enemies, by mutuall aydes and succours as occasion shall re<g ref="char:EOLhyphen"/>quire?</p>
+            <p n="8">8. Whether God hath not put down our former Rulers (among other sins) for their <hi>sinfull compliance with Idolatry;</hi> and because they did not come to the help of the Lord against the mighty, withholding their hands from succour and relief, when the people of God in ma<g ref="char:EOLhyphen"/>ny places, were accounted <gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s sheep for the slaughter, and were sacri<g ref="char:EOLhyphen"/>fi<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed to the cruelties of their unmercifull enemies in barbarous slaughters and massacries?</p>
+            <p n="9">9. Whether the people of God may in reason expect any true, found, well grounded and lasting Peace among them, as long as <hi>the Whoredomes, Witch crafts, and Sorceries of</hi> Jezabell <hi>of Rome con<g ref="char:EOLhyphen"/>tinue so many;</hi> who doth break the Peace of Gods people, and doth raise, foment and nourish our Divisions by her Emissaries; witnesse severall discoveries made here in <hi>England,</hi> and sufficiently and pub<g ref="char:EOLhyphen"/>lickly attested by credible testimonies?</p>
+            <p n="10">10. Whether the time be not now drawing very neer, for the <hi>de<g ref="char:EOLhyphen"/>struction of Babylon Magna,</hi> and of the great Anti-Christ, that is <hi>Rome</hi> and the State, Power, Hypocrisie, Pride, Authority and Supreamacy of the Pope; together with his Idolatry and all the appurtenanc<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s thereof: which hath been so long before predicted by the holy men of God, in the holy Scriptures, in the word of Truth, as the fa<g ref="char:EOLhyphen"/>mous Champions of our Churches, have abundantly discovered and demonstrated?</p>
+            <p n="11">11. Whether all Christians Magistrates, Princes, States and Cities reformed from the Idolatry and abominable corruptions of Popery, be not bound in their Consciences, by the rules of Gods Word, to
+<pb n="3" facs="tcp:171796:2"/>draw now at last the <hi>sword of divine Justice, against that</hi> BLOODY BEAST, Apoc. 18.6, 7. That hath made it self fat with the flesh of Saints, and drunken with the blood of the Martyrs of Jesus, and yet thirsteth still after the blood of the Servants of God? Do we not see the blood of holy men streaming from under the Throne of the Beast; and do we not heare the holy Blood crying from the ground for vengeance? And doth not God charge us to reward <hi>Babylon</hi> as she hath rewarded us?</p>
+            <p n="12">12. Whether all <hi>Ministers</hi> and <hi>Preachers of Gods Word,</hi> and others of any publick Interest ought not both by Praying and Preaching, and by all other legall and regular means <hi>to stir up their Magistrates</hi> respectively, to execute the <hi>Wrath of the most high God,</hi> (Rom. 13.4.) and his just judgments denounced upon that great Incendiary of the World, the Arch-Rebell against all rule and Authority, the usur<g ref="char:EOLhyphen"/>per of Humane power, <hi>over all that is called God</hi> on Earth, 2 Thess. cap. 2. v. 4.) For to perform the will and word of God against him, that the ancient Prophesies concerning these matters may be fulfilled, and the many prayers of Gods Saints on that behalf may at last be<g ref="char:EOLhyphen"/>come effectuall; as we are bound to second all our prayers with our best endeavours in the use of all good means, least we be found tempters or mockers of God in our idle and verball prayers?</p>
+            <p n="13">13. Whether our late great and amazing changes may not be <hi>fore<g ref="char:EOLhyphen"/>runners and preparatories of far greater things,</hi> to be done abroad in the World, as the Pacification of the Churches of Christ every where, the downfal of <hi>Babylon,</hi> the extirpation of Idolatry out of the world, the Conversion of the Jews, the Destruction of <hi>Gog</hi> and <hi>Magog,</hi> or of the Turkish Dominion, the Restitution of the Holy Land, the pro<g ref="char:EOLhyphen"/>pagation of the Gospel and of the name of Christ to the ends of the earth, that the world may be filled with his glory? Doth God onely aym at the setting up of a man, and not rather to set up himself in his people, and in his wayes? When <hi>Moses</hi> was taken out of the Ark of Bulrushes, and made a Ruler to Gods people, was it not to destroy <hi>Pharoah,</hi> and to lead <hi>Israel</hi> out of <hi>Aeygpt?</hi> And when <hi>Joshua</hi> from a Servant of <hi>Moses</hi> was made a Governour to <hi>Israel,</hi> was it not to drive out the <hi>Cananites?</hi> When <hi>David</hi> from following the Ewes, great with young, was made King of <hi>Israel,</hi> was it not to drive out the <hi>Jebusites,</hi> and to subdue the enemies of God? And was not <hi>Cy<g ref="char:EOLhyphen"/>rus (alias Cores)</hi> from a Heardsman raised to be a great Monarch to destroy the <hi>Babylonians</hi> and to restore <hi>Jerusalem?</hi>
+            </p>
+            <pb n="4" facs="tcp:171796:3"/>
+            <p n="14">14. Whether God doth not (as it were) with his finger, point out this <hi>Nation of England</hi> for some <hi>remarkable publike, high and glorious designs, partly</hi> by his Visible and admirable providences, as the overthrow of that Invincible Armado in 88. the miraculous discovery and disap<g ref="char:EOLhyphen"/>pointment of the <hi>Gun powder plot,</hi> and all the many marveilous pre<g ref="char:EOLhyphen"/>servations of this Nation, old and new, from Popery and Destruction? <hi>Partly</hi> by the fervent prayers, wherewith this Land aboundeth more than other Nations, so that we may say: It is impossible but that a Land of so many prayers and tears should prosper and prevaile, and that extraordinary prayers should fetch in extraordinary blessing; <hi>partly</hi> also by some speciall promises, as (for one instance) that of <hi>Isa.</hi> 58.13, 14. <hi>If thou turn away thy foot from the Sabbath, from doing thy plea<g ref="char:EOLhyphen"/>sure on my holy day, and call the Sabbath a delight, &amp;c. then shalt thou delight thy self in the Lord, and I will cause thee to ride upon the High places of the Earth, &amp;c.</hi> It is publickly known, and evident, that no Nation hath done the like for the Sabboth, as <hi>England</hi> hath done, giving Laws from time to time, for the strict observation of it; and therefore why may not <hi>England</hi> expect the annexed reward, which is <hi>to ride upon the High places of the Earth:</hi> since God is true in his promises and will not be found a Liar?</p>
+            <p n="15">15. Whether some of our late disliked actions may not be of such a nature as that act of <hi>Moses, Act.</hi> 7.23, 24. <hi>When he smote the Aegyptian, for he supposed his brethren would have</hi> understood, <hi>how that God by his hand would deliver them; but they understood not,</hi> in so much, that it might perhaps discourage him, and cause him afterwards to re<g ref="char:EOLhyphen"/>fuse that service when God called him to it; because he was up<g ref="char:EOLhyphen"/>braided with it, and condemned for it by his own brethren, that strove and quarrelled together. Nor indeed could it be any wayes ju<g ref="char:EOLhyphen"/>stified <hi>by the letter of the Law;</hi> that <hi>Moses</hi> being a subject and in a pri<g ref="char:EOLhyphen"/>vate cap<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>city, without Commission, should become a Judge of Con<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#murp" extent="2 letters">
+                  <desc>••</desc>
+               </gap>oversies, and not only a Controller, but an Executioner of a wrong doer, by killing the man. But this was a <hi>symbolicall action,</hi> or signifi<g ref="char:EOLhyphen"/>cative giving a further hint, and it was extraordinary, as also that of <hi>Phineas</hi> who executed <hi>Zimri</hi> and <hi>Cosby</hi> in the very fact, without any legall Processe; and doth not God seem to proclaim to us, yea to all the world, that he can and will turn Antichrist and his Conclave out of doores, and break and dissolve his Councels? For if this be done to the green tree in <hi>England,</hi> what shall become of that dry tree? Friends! Must we not allow God the supream Legislatour this Pre<g ref="char:EOLhyphen"/>rogative, in his publick Instruments somtimes to go beyond his com<g ref="char:EOLhyphen"/>mon
+<pb n="5" facs="tcp:171796:3"/>and ordinary roads; especially, when he is about to carry on great and extraordinary Works? Yet this is rare and happeneth not but once or twice perhaps in a thousand years; neither must it be made exemplary, but ought to be rather matter of admiration to us than of imitation.</p>
+            <p n="16">16. Whether <hi>Gods proceedings with us in England,</hi> do not run parallel with his former proceedings in the accomplishments of the greatest mercies to his people? crossing the devices of his servants in the ma<g ref="char:EOLhyphen"/>nagement of his most glorious mercies? Our first Parents thought <hi>Cain</hi> was <hi>the Man the Lord,</hi> or the promised Messiah (<hi>Gen.</hi> 4. <hi>verse</hi> 1. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>
+               <hi>Virum Jehovam</hi>) but he was the childe of the Devill. <hi>Isaac</hi> would have be queathed the blessing to <hi>Esou,</hi> but <hi>Jacob</hi> carried it: <hi>Joseph</hi> would have had his Fathers hand upon his Elder Son <hi>Manasseh,</hi> but the younger <hi>Ephraim,</hi> was preferred before him which displeased <hi>Joseph. Samuel</hi> being to anoint a king of <hi>Israel</hi> was all for the elder sons of <hi>Jesse,</hi> and never dreamt of <hi>David</hi> who kept the sheep. The Disciples looked that Christ should have been the deliverer, but he was put up<g ref="char:EOLhyphen"/>on the Crosse, and laid in the Grave. Hath not God dealt thus with us in <hi>England?</hi> Hath he not cast down every thing that we would have set up? God powreth contempt upon Princes, and raiseth those that are least regarded and most contemned. He will not send his Mercy in our way, but in his own way. He that bringeth forth light out of darknes cannot hebring forth order out of disorder, &amp; good out of evill, and rule out of mis-rule, and greatnesse out of nothing<g ref="char:EOLhyphen"/>nesse?</p>
+            <p n="17">17. Whether we have not more cause to be thankfull to God for what we enjoy, than fretful because we have not the same things that we would have? We have as much liberty to be good, and to do good as our hearts can desire, (oh were it but well secured to <hi>poste rite!</hi>) And though Sathan and his Agents have equall liberty with us (which is our just grief and trouble) and the childrens bread is cast before the dogs: Yet is not this time better than the former? When Sathan and his Instruments had all Licence to do their worst, but the people of God were restrained, and we had no liberty, but what we were fain to get by stealth, and to share amongst us in cor<g ref="char:EOLhyphen"/>ners? God grant us hearts to husband our mercies well, that we be no worse in better times than we have been in worser dayes.</p>
+            <p n="18">18. Whether in these latter times <hi>Christs Kingdome</hi> (which shall de<g ref="char:EOLhyphen"/>stroy all other Kingdomes, and put an end to all other Monarchies) shall not be put into the hands of such <hi>Magistrates,</hi> for the civill ad<g ref="char:EOLhyphen"/>ministration
+<pb n="6" facs="tcp:171796:4"/>of it in civill things; and such <hi>Ministers</hi> for the spiritual administration of it in spirituall things, as shall be true and faithfull to <hi>Christs Gospel interest,</hi> in their severall sphears all the world over? (but whether <hi>savingly</hi> faithfull, as to their own salvation, or but <hi>ci<g ref="char:EOLhyphen"/>villy</hi> as to their outward carriage; I cannot now determine) And whether the notion of the <hi>Personall Kingdome of Christ</hi> hath not been our mistake? seeing we have not any sufficient ground to expect a <hi>Personal</hi> comming of Christ till he comes to the great day of judg<g ref="char:EOLhyphen"/>ment; since all the scriptures that speak of the comming of Christ are reducible to one of these three; <hi>First,</hi> his comming in the flesh, which is past; <hi>next,</hi> his spiritual commingdaily amongst us in his Ordinan<g ref="char:EOLhyphen"/>ces, which is continuall; and <hi>lastly,</hi> his Personal comming unto judg<g ref="char:EOLhyphen"/>ment in the end of the world, <hi>Acts</hi> 1. <hi>vers.</hi> 11.</p>
+            <p n="19">19. Whether we do not see some comfortable signes and evident symptoms of the beginnings of Christs Reign already in these Domi<g ref="char:EOLhyphen"/>nions? some glimpses characters and Indi<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ations of that <hi>Fifth Mo<g ref="char:EOLhyphen"/>narchy?</hi> And whether we may not expect some fuller discoveries thereof by a Reformation of Magistracy and Ministry throughout the Nations, that Justice and Righteousnesse may be put into the hands of just, righteous and religious Judges and Justices, as neer as they may be had; and the Gospel of Truth onely into the hands of true and faithfull Pastors after Gods own heart, as neer as they may be had, to dispense the Ordinances of Christ according to his minde and will; so that the Church of God may b<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <hi>called a City of Righteousnesse, a Faithfull City?</hi> the holy <hi>Jerusalem</hi> descending out of heaven from God? <hi>Rev.</hi> 21.</p>
+            <p n="20">20. Whether God hath not purposely cut out <hi>this present Govern<g ref="char:EOLhyphen"/>nour,</hi> that now ruleth over these lands, and fitted him with incompa<g ref="char:EOLhyphen"/>rable <hi>abilities,</hi> great <hi>wisdome,</hi> insuperable <hi>courage,</hi> indefatigable <hi>industry,</hi> rarest <hi>impartiality,</hi> a Lion-like Aspect, and uninterrupted <hi>Victories</hi> (his very en<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>mies being witnes) to lay the foundation by these <hi>great changes</hi> for the turning of the Scales of Government in the World, to raise a new Frame and State of <hi>Rule</hi> amongst CHRISTIANS, <hi>to make our Ruler Righteousnesse, and our Exactors Peace:</hi> when his very name is Ominous, and his Governments hitherto speak him to be an O<g ref="char:EOLhyphen"/>LIVE <hi>quasi Olivifer</hi> of Peace to Gods People, and the Anagram of his name is not to be slighted, LIE LOW CRUEL ROME?</p>
+            <p n="21">21. Whether we know what we do, when by our Intestine divisi<g ref="char:EOLhyphen"/>ons, dissatisfactions, Jealousies, frowardnesse, and wilfulnesse we slight
+<pb n="7" facs="tcp:171796:4"/>the hints and beckenings of Gods hand to us? when many Persons of great E<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>dowments will rather bury their Talent in the ground, than act <hi>rebus sic stantibus,</hi> in publike services; yea, by their principles and practises, judge and condemn all the godly, that are publickly im<g ref="char:EOLhyphen"/>ployed under this Authority? And whether they b<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap> not with too much stiffnesse addicted to their own private judgments, that will rather suff<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r all the Concernments of Gods people to sink or swim, than lend their helping hand to promote good and to prevent evill, because every thing is not as they would have it, and some things are done <hi>extraordinem,</hi> and <hi>praeter regulam,</hi> (at least in their judgments) not considering withall that those who are to do greater things than others have done for <hi>England,</hi> must have a large allowance, and they that are to <hi>ride upon the high places of the earth,</hi> must not be so close girt or too straight reigned.</p>
+            <p n="22">22. Whether the <hi>faithfull Ministry of England</hi> hath not great cause to pray unto God, and to praise him for this present Government, whereby God hath secured that sacred Office from being trampled under foot, and preserved their Maintenance hitherto, and which doth not refrain Preaching where and when, and as often as occasion and opportunity is offered? Is not this a most glorious and signall Mercy, for which thousands o<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Gods people heretofore would have given half their eff<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tes to have enjoyed it? But do we thus requite the Lord (O foolish people and unwise!) why are we not sensible of nor thankfull for so great a blessing?</p>
+            <p n="23">23. Whether notorious blasphemours must not at least be put to silence? Why should not his mouth be bridled, that saith, <hi>Christ is no God,</hi> as well as his that saith, <hi>This, or that man is no Magistrate:</hi> Or, shall Christian Magistrates do lesse for the Vindication of God, than for the Vindication of their own Authority? And do not men pre<g ref="char:EOLhyphen"/>tend their Consciences as well for the one, as for the other?</p>
+            <p>
+               <hi>Christian Reader,</hi> Seriously ponder and consider what is here offered to thee: <hi>Whoso are wise and will observe those things, even they shall understand the loving kindnesse of the Lord,</hi> Psal. 107. <hi>ult.</hi>
+            </p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>M.B. C.P. M.H. C.L.</hi>
+            </p>
+            <p>
+               <hi>London,</hi> Printed; and are to be sold at <hi>Pauls Church-yard,</hi> and <hi>Westminster</hi>-hall, 1655.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
